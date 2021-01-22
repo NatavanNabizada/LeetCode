@@ -1,4 +1,4 @@
-<h4>Solutions of Hackerrank questions</h4>
+<h4>Solutions of LeetCode questions</h4>
 <h2>Array</h2>
 <table>
 <thead>
