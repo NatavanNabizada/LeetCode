@@ -33,6 +33,16 @@
 <td>Array</td>
 </tr>
 </tr>
+
+<tr>
+<tr>
+<td>3</td>
+<td><a href="https://leetcode.com/problems/plus-one/" rel="nofollow">Plus One</a></td>
+<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Data%20Structure/Plus%20One/src/com/company/Main.java">Solution</a></td>
+<td>Easy</td>
+<td>Array</td>
+</tr>
+</tr>
 </table>
 
 
