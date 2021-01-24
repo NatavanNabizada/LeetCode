@@ -43,6 +43,28 @@
 <td>Array</td>
 </tr>
 </tr>
+
+
+<tr>
+<tr>
+<td>4</td>
+<td><a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/" rel="nofollow">Two Sum II - Input array is sorted</a></td>
+<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Data%20Structure/Two%20Sum%20II%20-%20Input%20array%20is%20sorted/src/com/company/Main.java">Solution</a></td>
+<td>Easy</td>
+<td>Array</td>
+</tr>
+</tr>
+
+
+<tr>
+<tr>
+<td>5</td>
+<td><a href="https://leetcode.com/problems/fibonacci-number/" rel="nofollow">Fibonacci Number</a></td>
+<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Data%20Structure/Fibonacci%20Number/src/com/company/Main.java">Solution</a></td>
+<td>Easy</td>
+<td>Array</td>
+</tr>
+</tr>
 </table>
 
 
@@ -84,6 +106,16 @@
 <td>3</td>
 <td><a href="https://leetcode.com/problems/sqrtx/" rel="nofollow">Sqrt(x)</a></td>
 <td><a href="https://github.com/nnatevan/LeetCode/blob/master/Math/sqrt(x)/src/com/company/Main.java">Solution</a></td>
+<td>Easy</td>
+<td>Math</td>
+</tr>
+</tr>
+
+<tr>
+<tr>
+<td>4</td>
+<td><a href="https://leetcode.com/problems/add-digits/" rel="nofollow">Add Digits</a></td>
+<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Math/Add%20Digits/src/com/company/Main.java">Solution</a></td>
 <td>Easy</td>
 <td>Math</td>
 </tr>
