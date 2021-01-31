@@ -131,4 +131,14 @@
 <td>Math</td>
 </tr>
 </tr>
+
+<tr>
+<tr>
+<td>5</td>
+<td><a href="https://leetcode.com/problems/power-of-two/" rel="nofollow">Power Of Two</a></td>
+<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Math/Power%20of%20Two/src/com/company/Main.java">Solution</a></td>
+<td>Easy</td>
+<td>Math</td>
+</tr>
+</tr>
 </table>
