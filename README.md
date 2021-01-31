@@ -141,4 +141,14 @@
 <td>Math</td>
 </tr>
 </tr>
+
+<tr>
+<tr>
+<td>6</td>
+<td><a href="https://leetcode.com/problems/power-of-three/" rel="nofollow">Power Of Three</a></td>
+<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Math/Power%20of%20Three/src/com/company/Main.java">Solution</a></td>
+<td>Easy</td>
+<td>Math</td>
+</tr>
+</tr>
 </table>
