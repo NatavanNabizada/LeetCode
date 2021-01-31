@@ -65,6 +65,17 @@
 <td>Array</td>
 </tr>
 </tr>
+
+
+<tr>
+<tr>
+<td>6</td>
+<td><a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/" rel="nofollow">Check If N and Its Double Exist</a></td>
+<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Data%20Structure/Check%20If%20N%20and%20Its%20Double%20Exist/src/com/company/Main.java">Solution</a></td>
+<td>Easy</td>
+<td>Array</td>
+</tr>
+</tr>
 </table>
 
 
