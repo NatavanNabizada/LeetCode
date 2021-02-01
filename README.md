@@ -154,7 +154,7 @@
 <td><a href="https://leetcode.com/problems/power-of-four/" rel="nofollow">Power Of Four</a></td>
 <td><a href="https://github.com/nnatevan/LeetCode/blob/master/Bit%20Manipulation/Power%20of%20Four/src/com/company/Main.java">Solution</a></td>
 <td>Easy</td>
-<td>Math</td>
+<td>Bit Manipulation</td>
 </tr>
 </tr>  
 
