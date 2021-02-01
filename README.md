@@ -132,23 +132,30 @@
 </tr>
 </tr>
 
+</table>
+
+<table>
+<h2>Bit Manipulation</h2>
+<table>
+<thead>
 <tr>
-<tr>
-<td>5</td>
-<td><a href="https://leetcode.com/problems/power-of-two/" rel="nofollow">Power Of Two</a></td>
-<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Math/Power%20of%20Two/src/com/company/Main.java">Solution</a></td>
-<td>Easy</td>
-<td>Math</td>
+<th>#</th>
+<th>Title</th>
+<th>Solutions</th>
+<th>Difficulty</th>
+<th>Tag</th>
 </tr>
-</tr>
+</thead>
+<tbody>
 
 <tr>
 <tr>
-<td>6</td>
-<td><a href="https://leetcode.com/problems/power-of-three/" rel="nofollow">Power Of Three</a></td>
-<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Math/Power%20of%20Three/src/com/company/Main.java">Solution</a></td>
+<td>1</td>
+<td><a href="https://leetcode.com/problems/power-of-four/" rel="nofollow">Power Of Four</a></td>
+<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Bit%20Manipulation/Power%20of%20Four/src/com/company/Main.java">Solution</a></td>
 <td>Easy</td>
 <td>Math</td>
 </tr>
-</tr>
+</tr>  
+
 </table>
