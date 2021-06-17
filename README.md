@@ -76,6 +76,17 @@
 <td>Array</td>
 </tr>
 </tr>
+
+
+<tr>
+<tr>
+<td>7</td>
+<td><a href="https://leetcode.com/problems/third-maximum-number/" rel="nofollow">Third Maximum Number</a></td>
+<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Data%20Structure/Check%20If%20N%20and%20Its%20Double%20Exist/src/com/company/Main.java">Solution</a></td>
+<td>Easy</td>
+<td>Array</td>
+</tr>
+</tr>
 </table>
 
 
@@ -158,6 +169,15 @@
 </tr>
 </tr>  
 
+ <tr>
+<tr>
+<td>2</td>
+<td><a href="https://leetcode.com/problems/single-number/" rel="nofollow">Single Number</a></td>
+<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Bit%20Manipulation/Power%20of%20Four/src/com/company/Main.java">Solution</a></td>
+<td>Easy</td>
+<td>Bit Manipulation</td>
+</tr>
+</tr>  
 </table>
 
 
