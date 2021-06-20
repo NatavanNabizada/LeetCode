@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Math/Add Digits/Add Digits.iml" filepath="$PROJECT_DIR$/Math/Add Digits/Add Digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structure/Check If N and Its Double Exist/Check If N and Its Double Exist.iml" filepath="$PROJECT_DIR$/Data Structure/Check If N and Its Double Exist/Check If N and Its Double Exist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structure/Fibonacci Number/Fibonacci Number.iml" filepath="$PROJECT_DIR$/Data Structure/Fibonacci Number/Fibonacci Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/Palindrome Number/Palindrome Number.iml" filepath="$PROJECT_DIR$/Math/Palindrome Number/Palindrome Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structure/Plus One/Plus One.iml" filepath="$PROJECT_DIR$/Data Structure/Plus One/Plus One.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bit Manipulation/Power of Four/Power of Four.iml" filepath="$PROJECT_DIR$/Bit Manipulation/Power of Four/Power of Four.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structure/Remove Element/Remove Element.iml" filepath="$PROJECT_DIR$/Data Structure/Remove Element/Remove Element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/Reverse Integer/Reverse Integer.iml" filepath="$PROJECT_DIR$/Math/Reverse Integer/Reverse Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bit Manipulation/SingleNumber/SingleNumber.iml" filepath="$PROJECT_DIR$/Bit Manipulation/SingleNumber/SingleNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structure/Two Sum/Two Sum.iml" filepath="$PROJECT_DIR$/Data Structure/Two Sum/Two Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structure/Two Sum II - Input array is sorted/Two Sum II - Input array is sorted.iml" filepath="$PROJECT_DIR$/Data Structure/Two Sum II - Input array is sorted/Two Sum II - Input array is sorted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/sqrt(x)/sqrt(x).iml" filepath="$PROJECT_DIR$/Math/sqrt(x)/sqrt(x).iml" />
+    </modules>
+  </component>
+</project>
