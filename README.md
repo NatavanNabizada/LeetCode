@@ -213,7 +213,7 @@
 <tr>
 <td>1</td>
 <td><a href="https://leetcode.com/problems/add-strings/" rel="nofollow">Add Strings</a></td>
-<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Bit%20Manipulation/Power%20of%20Four/src/com/company/Main.java">Solution</a></td>
+<td><a href="https://github.com/nnatevan/LeetCode/blob/master/String/Add%20String/src/com/company/Main.java">Solution</a></td>
 <td>Easy</td>
 <td>String</td>
 </tr>
