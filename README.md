@@ -149,7 +149,7 @@
 <tr>
 <td>5</td>
 <td><a href="https://leetcode.com/problems/perfect-number/" rel="nofollow">Perfect Number</a></td>
-<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Math/Add%20Digits/src/com/company/Main.java">Solution</a></td>
+<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Math/PerfectNumber/src/com/company/Main.java">Solution</a></td>
 <td>Easy</td>
 <td>Math</td>
 </tr>
