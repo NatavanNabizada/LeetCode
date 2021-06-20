@@ -185,7 +185,7 @@
 <tr>
 <td>2</td>
 <td><a href="https://leetcode.com/problems/single-number/" rel="nofollow">Single Number</a></td>
-<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Bit%20Manipulation/Power%20of%20Four/src/com/company/Main.java">Solution</a></td>
+<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Bit%20Manipulation/SingleNumber/src/com/company/Main.java">Solution</a></td>
 <td>Easy</td>
 <td>Bit Manipulation</td>
 </tr>
