@@ -219,9 +219,19 @@
 <td>String</td>
 </tr>
 </tr>  
-
  
- <table>
+ 
+ <tr>
+<tr>
+<td>2</td>
+<td><a href="https://leetcode.com/problems/length-of-last-word/" rel="nofollow">Length of Last Word</a></td>
+<td><a href="https://github.com/nnatevan/LeetCode/blob/master/String/Length%20of%20Last%20Word/src/com/company/Main.java">Solution</a></td>
+<td>Easy</td>
+<td>String</td>
+</tr>
+</tr>  
+
+<table>
 <h2>Hash Table</h2>
 <table>
 <thead>
