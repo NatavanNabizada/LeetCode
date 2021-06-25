@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class Main {
 
+    //First Way
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int[] arr = new int[nums1.length + nums2.length];
 
@@ -28,6 +29,26 @@ public class Main {
             return (double) (arr[arr.length / 2] + arr[(arr.length / 2) - 1]) / 2;
         }
     }
+
+    //Second Way
+    public double findMedianSortedArraysS(int[] nums1, int[] nums2) {
+        List<Integer> list = new ArrayList<>();
+
+        for (int i = 0; i < nums1.length; i++) {
+            list.add(nums1[i]);
+        }
+
+        for (int i = 0; i < nums2.length; i++) {
+            list.add(nums2[i]);
+        }
+        Collections.sort(list);
+
+        if (list.size() % 2 == 1) {
+            return list.get((list.size() / 2));
+        } else {
+            return (double) ((list.get(list.size() / 2)) + list.get((list.size()/2)-1)) / 2; }
+    }
+
 
     public static void main(String[] args) {
         Main main = new Main();
