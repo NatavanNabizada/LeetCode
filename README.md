@@ -93,7 +93,7 @@
 <tr>
 <td>8</td>
 <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/" rel="nofollow">Median of Two Sorted Arrays</a></td>
-<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Array/Third%20Maximum%20Number/src/com/company/Main.java">Solution</a></td>
+<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Array/Median%20Of%20Two%20Sorted%20Arrays/src/com/company/Main.java">Solution</a></td>
 <td>Hard</td>
 <td>Array</td>
 </tr>
