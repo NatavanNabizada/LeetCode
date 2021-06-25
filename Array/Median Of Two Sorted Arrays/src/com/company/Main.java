@@ -19,8 +19,6 @@ public class Main {
         for (int i = 0; i < arr.length; i++) {
             System.out.println(arr[i]);
         }
-        System.out.println("Arrayin sonu");
-        System.out.println("Listenmish Array");
 
         Arrays.sort(arr);
         if (arr.length % 2 == 1) {
