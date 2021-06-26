@@ -6,7 +6,6 @@ import java.util.Collections;
 import java.util.List;
 
 public class Main {
-
     //First Way
 
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
