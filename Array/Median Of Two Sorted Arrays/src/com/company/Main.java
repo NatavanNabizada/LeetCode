@@ -24,6 +24,7 @@ public class Main {
             System.out.println(arr[i]);
         }
 
+        //Also you can use Arrays.parallelSort(arr);
         Arrays.sort(arr);
         if (arr.length % 2 == 1) {
             return arr[arr.length / 2];
