@@ -8,7 +8,6 @@ public class Main {
             }
         }
         return -1;
-
     }
 
     public static void main(String[] args) {
@@ -16,5 +15,4 @@ public class Main {
         int[] nums = new int[]{1, 2, 3, 4, 6, 7};
         System.out.println(main.search(nums, 7));
     }
-
 }
