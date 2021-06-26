@@ -104,7 +104,7 @@
 <tr>
 <td>8</td>
 <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/" rel="nofollow">Search in Rotated Sorted Array</a></td>
-<td><a href="">Solution</a></td>
+<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Array/Search%20In%20Rotate%20Sorted%20Arrays/src/com/company/Main.java">Solution</a></td>
 <td>Medium</td>
 <td>Array</td>
 </tr>
