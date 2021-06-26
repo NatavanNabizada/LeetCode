@@ -98,6 +98,17 @@
 <td>Array</td>
 </tr>
 </tr>
+
+
+<tr>
+<tr>
+<td>8</td>
+<td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/" rel="nofollow">Search in Rotated Sorted Array</a></td>
+<td><a href="">Solution</a></td>
+<td>Medium</td>
+<td>Array</td>
+</tr>
+</tr>
 </table>
 
 
