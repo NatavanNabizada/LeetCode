@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Math/Add Digits/Add Digits.iml" filepath="$PROJECT_DIR$/Math/Add Digits/Add Digits.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data Structure/Check If N and Its Double Exist/Check If N and Its Double Exist.iml" filepath="$PROJECT_DIR$/Data Structure/Check If N and Its Double Exist/Check If N and Its Double Exist.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data Structure/Fibonacci Number/Fibonacci Number.iml" filepath="$PROJECT_DIR$/Data Structure/Fibonacci Number/Fibonacci Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/Add Digits/Implement Stack using Queues.iml" filepath="$PROJECT_DIR$/Math/Add Digits/Implement Stack using Queues.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Math/Palindrome Number/Palindrome Number.iml" filepath="$PROJECT_DIR$/Math/Palindrome Number/Palindrome Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data Structure/Plus One/Plus One.iml" filepath="$PROJECT_DIR$/Data Structure/Plus One/Plus One.iml" />
