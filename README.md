@@ -297,6 +297,16 @@
 <tr>
 <tr>
 <td>1</td>
+<td><a href="https://leetcode.com/problems/implement-stack-using-queues/" rel="nofollow">Implement Stack using Queues</a></td>
+<td><a href="https://github.com/nnatevan/LeetCode/blob/master/Hash%20Table/Single%20Number/src/com/company/Main.java">Solution</a></td>
+<td>Easy</td>
+<td>Stacks & Queue</td>
+</tr>
+</tr>  
+
+<tr>
+<tr>
+<td>2</td>
 <td><a href="https://leetcode.com/problems/implement-queue-using-stacks/" rel="nofollow">Implement Queue using Stacks</a></td>
 <td><a href="https://github.com/nnatevan/LeetCode/blob/master/Hash%20Table/Single%20Number/src/com/company/Main.java">Solution</a></td>
 <td>Easy</td>
