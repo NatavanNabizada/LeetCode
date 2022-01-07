@@ -280,7 +280,7 @@
  
  
 <table>
-<h2>Stack & Queue</h2>
+<h2>Stacks & Queue</h2>
 <table>
 <thead>
 <tr>
@@ -297,10 +297,10 @@
 <tr>
 <tr>
 <td>1</td>
-<td><a href="https://leetcode.com/problems/implement-queue-using-stacks/" rel="nofollow">Single Number</a></td>
+<td><a href="https://leetcode.com/problems/implement-queue-using-stacks/" rel="nofollow">Implement Queue using Stacks</a></td>
 <td><a href="https://github.com/nnatevan/LeetCode/blob/master/Hash%20Table/Single%20Number/src/com/company/Main.java">Solution</a></td>
 <td>Easy</td>
-<td>String</td>
+<td>Stacks & Queue</td>
 </tr>
 </tr>  
 
