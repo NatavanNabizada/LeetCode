@@ -10,20 +10,20 @@ public class Main {
         stack = new Stack<>();
     }
 
-    public void push(int x) {
-        stack.add(0, x);
+    public void push(int val) {
+
     }
 
-    public int pop() {
-        return stack.pop();
+    public void pop() {
+
     }
 
-    public int peek() {
-        return stack.peek();
+    public int top() {
+
     }
 
-    public boolean empty() {
-        return stack.isEmpty();
+    public int getMin() {
+
     }
 
     public static void main(String[] args) {
