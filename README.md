@@ -313,5 +313,14 @@
 <td>Stacks & Queue</td>
 </tr>
 </tr>  
-
+ 
+<tr>
+<tr>
+<td>3</td>
+<td><a href="https://leetcode.com/problems/min-stack/" rel="nofollow">Min Stack</a></td>
+<td><a href="https://github.com/NatavanNabizada/LeetCode/blob/master/Stacks%20%26%20Queue/Min%20Stack/src/com/company/Main.java">Solution</a></td>
+<td>Easy</td>
+<td>Stacks & Queue</td>
+</tr>
+</tr>  
 </table>
