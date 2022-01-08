@@ -279,7 +279,7 @@
 </tr>  
  
  
-<table>
+<!-- <table>
 <h2>Stacks & Queue</h2>
 <table>
 <thead>
@@ -291,9 +291,9 @@
 <th>Tag</th>
 </tr>
 </thead>
-<tbody>
+<tbody> -->
 
- 
+<!--  
 <tr>
 <tr>
 <td>1</td>
@@ -323,4 +323,4 @@
 <td>Stacks & Queue</td>
 </tr>
 </tr>  
-</table>
+</table> -->
